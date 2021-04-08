@@ -1,1 +1,1 @@
-# SO---Threads-Resultado-Experimento
+# SO--- Programando com Multiplas Threads: resultados do experimento
